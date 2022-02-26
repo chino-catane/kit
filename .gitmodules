@@ -1,3 +1,0 @@
-[submodule "dotfiles/xps/.oh-my-zsh"]
-	path = dotfiles/xps/.oh-my-zsh
-	url = https://github.com/ohmyzsh/ohmyzsh.git
