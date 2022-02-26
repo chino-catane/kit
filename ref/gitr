@@ -1,0 +1,38 @@
+https://git-scm.com/book/en
+
+git <verb> --help
+git --version
+git add <file/directory>
+
+git branch [--all] [-v] [--merged] [--no-merged]
+git branch <name>
+git branch -d <branch to delete>
+
+git checkout <branch>
+git checkout -- <file>
+git checkout -b <newbranchname>
+
+git clone <url> [folder name]
+git commit [-a] [-v] [--ammend] [-m]
+git config --list --show-origin
+git diff [--cached]
+git fetch <shortname>
+git fetch origin <branch name>
+ get checkout <branch name>
+git help <verb>
+git init
+
+git log [--all] [--oneline] [--decorate]
+git log --oneline --decorate --graph --all
+
+git merge <branch>
+git mv [old name] [new name]
+git pull <shortname>
+git push <shortname> <branch>
+
+git remote [-v]
+git remote show <shortname>
+
+git reset HEAD <file>
+git rm [-f] [--cached] <file/directory/glob>
+git status [-s]
