@@ -1,0 +1,63 @@
+{
+  "4062:934F1D14": {
+    "_modelId": "B34D40620000",
+    "_name": "K850 Performance Wireless Keyboard",
+    "_serial": "934F1D14",
+    "_unitId": "32609D2F",
+    "disable-keyboard-keys": {
+      "1": false,
+      "16": false,
+      "2": false,
+      "4": false,
+      "8": false
+    },
+    "divert-keys": {
+      "1": 0,
+      "10": 0,
+      "189": 0,
+      "191": 0,
+      "192": 0,
+      "193": 0,
+      "194": 0,
+      "2": 0,
+      "209": 0,
+      "210": 0,
+      "211": 0,
+      "212": 0,
+      "213": 0,
+      "214": 0,
+      "221": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0
+    },
+    "fn-swap": true,
+    "multiplatform": 0
+  },
+  "406B:F27E8581": {
+    "_modelId": "B01B406B0000",
+    "_name": "M585/M590 Multi-Device Mouse",
+    "_unitId": "AEC34250",
+    "divert-keys": {
+      "82": 0,
+      "83": 0,
+      "86": 0,
+      "91": 0,
+      "93": 0
+    },
+    "lowres-smooth-scroll": false,
+    "mouse-gestures": 0,
+    "pointer_speed": 256,
+    "reprogrammable-keys": {
+      "80": 80,
+      "81": 81,
+      "82": 82,
+      "83": 83,
+      "86": 86,
+      "91": 91,
+      "93": 93
+    }
+  },
+  "_version": "1.1.1"
+}
